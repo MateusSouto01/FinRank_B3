@@ -27,3 +27,6 @@ Thumbs.db
 *.log
 *.tmp
 *.bak
+
+# Bases processadas pesadas
+data/processed/*.parquet
