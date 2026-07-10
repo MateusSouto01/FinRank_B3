@@ -213,5 +213,4 @@ Cientista de Dados
 GitHub:
 https://github.com/MateusSouto01
 
-LinkedIn:
-(seu LinkedIn)
+LinkedIn: www.linkedin.com/in/mateussouto01
